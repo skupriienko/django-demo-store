@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="116cbe38-4794-43f9-b32f-bd2d59e63514" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/api_views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/migrations/0002_product_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/static/store/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/store/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/store/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/store/product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/templates/store/product_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/mineralwater-blueberry.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/mineralwater-lemonlime.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/mineralwater-orange.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/mineralwater-peach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/mineralwater-raspberry.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/mineralwater-strawberry.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/proteinbar-chocolate.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/proteinbar-lemon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/proteinbar-peanutbutter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/vitamin-a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/vitamin-bcomplex.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/vitamin-c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/vitamin-calcium.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/vitamin-d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/vitamin-flaxseed-oil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/vitamin-iron.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/vitamin-magnesium.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/uploads/products/vitamin-multi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/management/commands/load_pet_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/migrations/0002_auto_20200703_2015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/templates/pet_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/adoptions/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/pet_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/pets/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/pets/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/pets/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/pets/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/pets/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/starter_template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/static/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/static/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pets/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../LinkedingLearning/Ex_Files_UaR_Git_GitHub/Exercise Files/Ch01/01_03/project" beforeDir="false" afterPath="$PROJECT_DIR$/../../LinkedingLearning/Ex_Files_UaR_Git_GitHub/Exercise Files/Ch01/01_03/project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Projects" beforeDir="false" afterPath="$PROJECT_DIR$/../../Projects" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clones/CampX" beforeDir="false" afterPath="$PROJECT_DIR$/../../clones/CampX" afterDir="false" />
@@ -70,6 +11,52 @@
       <change beforePath="$PROJECT_DIR$/../../clones/Python-for-Algorithms--Data-Structures--and-Interviews" beforeDir="false" afterPath="$PROJECT_DIR$/../../clones/Python-for-Algorithms--Data-Structures--and-Interviews" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clones/Python_1" beforeDir="false" afterPath="$PROJECT_DIR$/../../clones/Python_1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../clones/yfinance" beforeDir="false" afterPath="$PROJECT_DIR$/../../clones/yfinance" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/demo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/demo/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/demo/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/demo/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/demo/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/api_views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/management/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/management/commands/load_pet_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/migrations/0002_product_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/serializers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/static/store/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/templates/store/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/templates/store/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/templates/store/product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/templates/store/product_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/mineralwater-blueberry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/mineralwater-lemonlime.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/mineralwater-orange.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/mineralwater-peach.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/mineralwater-raspberry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/mineralwater-strawberry.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/obkladynka_heroj_3-scaled.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/proteinbar-chocolate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/proteinbar-lemon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/proteinbar-peanutbutter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-bcomplex.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-calcium.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-flaxseed-oil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-iron.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-magnesium.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-multi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo/store/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +74,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eDgw7moOuxdUshso4coDt8SOXF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -140,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593861812641</updated>
       <workItem from="1593861834796" duration="2659000" />
-      <workItem from="1593876807522" duration="16621000" />
+      <workItem from="1593876807522" duration="17432000" />
     </task>
     <servers />
   </component>
