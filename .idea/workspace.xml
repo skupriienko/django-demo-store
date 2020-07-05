@@ -55,8 +55,8 @@
       <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-magnesium.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../demo/store/uploads/products/vitamin-multi.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../demo/store/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593861812641</updated>
       <workItem from="1593861834796" duration="2659000" />
-      <workItem from="1593876807522" duration="17432000" />
+      <workItem from="1593876807522" duration="17952000" />
     </task>
     <servers />
   </component>

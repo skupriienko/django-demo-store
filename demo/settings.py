@@ -10,6 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/2.1/ref/settings/
 """
 import os
+import django_heroku
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -109,3 +110,6 @@ STATIC_URL = '/static/'
 
 MEDIA_ROOT = os.path.abspath(os.path.join(BASE_DIR, 'store', 'uploads'))
 MEDIA_URL = '/uploads/'
+
+# Activate Django-Heroku.
+django_heroku.settings(locals())
